@@ -11,7 +11,7 @@
 ## Sobre mim
 <p align="Justify">
 ✈️  Sou do Rio de Janeiro <br><br>
-✍️  Estudo Ciência da Computação na Universidade Federal de Lavras, também conhecida como UFLA. <br><br>
+✍️  Estudo Ciência da Computação na Universidade Federal de Lavras, também conhecida como UFLA <br><br>
 😍  Fascinado por metodologias ágeis <br><br>
 👨🏼‍💻  Tenho interesse em desenvolvimento web e mobile <br><br>
 🙋🏼‍♂️  Atualmente em busca de um estágio
