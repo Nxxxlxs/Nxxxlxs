@@ -18,6 +18,13 @@
   <br>
 </p>
 
+## Contato
+<div align="center">
+  <a href = "mailto:nicolasaquino13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-aquino-9a89b8232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
+</div>
+
 ## Linguagens e Tecnologias que utilizo
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,20 +51,12 @@
 ## Projetos com os quais contribuí
 <a href="https://github.com/mariaseverino/projeto-final"> Biblioteca Universitária <a><br>
 <a href="https://github.com/LuizFelipe-5/puzzle8-IA"> Puzzle 8 <a><br>
-  
-## Contato
-<div align="center">
-  <a href = "mailto:nicolasaquino13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-aquino-9a89b8232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <br>
-<div>
     
 <br>
 <br>
-<div>
+<div align="center">
   <br>
   <a href="https://github.com/Nxxxlxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxxxlxs&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nxxxlxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
