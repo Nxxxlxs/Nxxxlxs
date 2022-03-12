@@ -49,8 +49,13 @@
 </div>
 
 ## Projetos com os quais contribuí
-<a href="https://github.com/mariaseverino/projeto-final"> Biblioteca Universitária <a><br>
-<a href="https://github.com/LuizFelipe-5/puzzle8-IA"> Puzzle 8 <a><br>
+<a href="https://github.com/mariaseverino/projeto-final"> Biblioteca Universitária <a>
+<p align="justify"> Projeto que simula um website de uma biblioteca universitária onde é possível inserir, remover, listar e alterar as informações sobre os empréstimos de livros. O projeto foi desenvolvido baseado na elaboração dos diagramas de classe, implantação e documento de requisitos. As tecnologias utilizadas nesse projeto são:<br> 
+<p align="center">Node | React | SQLite | Knex | Objection | Express | Nodemon | Bcryptjs | Axios | Date-fns</p></p>
+
+<a href="https://github.com/LuizFelipe-5/puzzle8-IA"> Puzzle 8 <a>
+<p align="justify"> Projeto que simula o jogo dos 8 onde dado um tabuleiro de nove posições embaralhado de forma arbitrária, devem ser realizadas jogadas que movimentem as peças para que elas cheguem em posição definida. Para a resolução foram utilizadas abordagem cega e heurística visando comparação entre o número de jogadas necessárias para finalização do jogo.</p>
+        
     
 <br>
 <br>
