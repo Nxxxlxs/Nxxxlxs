@@ -13,8 +13,8 @@
 ✈️  Sou do Rio de Janeiro <br>
 ✍️  Estudo Ciência da Computação na Universidade Federal de Lavras, também conhecida como UFLA <br>
 😍  Fascinado por metodologias ágeis <br>
-👨🏼‍💻  Tenho interesse em desenvolvimento web e mobile <br>
-🙋🏼‍♂️  Atualmente em busca de um estágio
+👨🏼‍💻  Tenho interesse na área de qualidade de software <br>
+🙋🏼‍♂️  Atualmente atuo como analista de qualidade de software (Estagiário)
   <br>
 </p>
 
@@ -37,23 +37,25 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" width="75" height="28" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="28" height="28" />
+  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width="28"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png"  width="28">
   <br>
 </div>
 
 ## Linguagens e Tecnologias que estudo atualmente
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />                                                                                                                        
   <br>
 </div>
 
 ## Projetos com os quais contribuí
 <a href="https://github.com/mariaseverino/projeto-final"> Biblioteca Universitária <a>
 <p align="justify"> Projeto que simula um website de uma biblioteca universitária onde é possível inserir, remover, listar e alterar as informações sobre os empréstimos de livros. O projeto foi desenvolvido baseado na elaboração dos diagramas de classe, implantação e documento de requisitos. As tecnologias utilizadas nesse projeto são:<br> 
-<p align="center">Node | React | SQLite | Knex | Objection | Express | Nodemon | Bcryptjs | Axios | Date-fns</p></p>
+<p align="center">Node | React | SQLite | Knex | Objection | Express | Nodemon | Bcryptjs | Axios | Date-fns | Selenium</p></p>
 
 <a href="https://github.com/LuizFelipe-5/puzzle8-IA"> Puzzle 8 <a>
 <p align="justify"> Projeto que simula o jogo dos 8 onde dado um tabuleiro de nove posições embaralhado de forma arbitrária, devem ser realizadas jogadas que movimentem as peças para que elas cheguem em posição definida. Para a resolução foram utilizadas abordagem cega e heurística visando comparação entre o número de jogadas necessárias para finalização do jogo.</p>
