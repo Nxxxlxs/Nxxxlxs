@@ -12,7 +12,6 @@
 <p align="Justify">
 ✍️  Bacharel em Ciência da Computação pela Universidade Federal de Lavras<br>
 👨🏼‍💻  Interesse nas áreas de Dados e Qualidade de Software <br>
-🙋🏼‍♂️  Atualmente atuo como Analista de Qualidade de Software
   <br>
 </p>
 
